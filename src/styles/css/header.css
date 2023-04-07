@@ -1,0 +1,40 @@
+header {
+  display: flex;
+  flex-direction: column;
+  gap: 1.3rem;
+  text-align: center;
+}
+header .title {
+  font-size: 2.4em;
+  font-weight: 600;
+  line-height: 1.5em;
+  letter-spacing: 0.166667px;
+  margin-top: 8.5rem;
+}
+@media (min-width: 90em) {
+  header .title {
+    font-size: 3.6em;
+  }
+}
+header .title span {
+  font-size: 1em;
+  line-height: 1em;
+  display: block;
+  color: #4D4F62;
+  font-weight: 300;
+}
+header .text {
+  font-size: 1.5em;
+  line-height: 1.7em;
+  letter-spacing: 0.104167px;
+  color: #4D4F62;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  font-weight: 400;
+  max-width: 34ch;
+}
+@media (min-width: 90em) {
+  header .text {
+    max-width: 55ch;
+  }
+}/*# sourceMappingURL=header.css.map */
