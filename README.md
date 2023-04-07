@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
+## This is a link to the [Figma Design](https://www.figma.com/file/u1a0fswmCUtnmhKViSvwGq/four-card-feature-section?node-id=0-115&t=sOvaTquzgsYtgVHs-0)
 
+## This is a link to the [Live Web-page](https://temuritsutskiridze.github.io/Four-Card-Feature-Section-React-App/)
+
+![Image 1](/public/design/desktop-design.jpg)
+
+![Image 2](/public/design/desktop-preview.jpg)
+
+![Image 3](/public/design/mobile-design.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
