@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Four-Card-Feature-Section-React-App/static/css/main.4ee18f9a.css",
+    "main.js": "/Four-Card-Feature-Section-React-App/static/js/main.3871c6fc.js",
+    "index.html": "/Four-Card-Feature-Section-React-App/index.html",
+    "main.4ee18f9a.css.map": "/Four-Card-Feature-Section-React-App/static/css/main.4ee18f9a.css.map",
+    "main.3871c6fc.js.map": "/Four-Card-Feature-Section-React-App/static/js/main.3871c6fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee18f9a.css",
+    "static/js/main.3871c6fc.js"
+  ]
+}
